@@ -35,4 +35,4 @@ September 6th, 2025
 ## Citing MP-aGMRES: 
 If you wish to use this code in your own work, you must review the license at LICENSE.txt and cite the following paper:
 - Citation: _Abir Haque, Suzanne Shontz, Xuemin Tu. GPU-Accelerated, Mixed Precision GMRES(m) with Varied Restarts. 2025 IEEE High Performance Extreme Computing Conference (HPEC), September 2025_
-- Paper Link: TBD
+- Paper Link: https://ieeexplore.ieee.org/document/11196269

@@ -35,7 +35,7 @@ Notes:
         KU School of Engineering Undergraduate Research Fellows Program
     If you wish to use this code in your own work, you must review the license at LICENSE.txt and cite the following paper:
         Abir Haque, Suzanne Shontz, Xuemin Tu. GPU-Accelerated, Mixed Precision GMRES(m) with Varied Restarts. 2025 IEEE High Performance Extreme Computing Conference (HPEC), September 2025
-        Paper Link: TBD
+        Paper Link: https://ieeexplore.ieee.org/document/11196269
 */
 #include <matio.h>
 #include <iostream>
